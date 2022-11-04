@@ -65,7 +65,11 @@ body {
   text-decoration: none;
   cursor: pointer;
 }
-
+@media screen and (min-width: 1000px) {
+  .modal {
+    top: -120px;
+  }
+}
 @media screen and (max-width: 670px) {
   .grid {
     margin: auto;
