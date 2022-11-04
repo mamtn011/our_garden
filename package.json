@@ -1,5 +1,5 @@
 {
-  "name": "mygallery",
+  "name": "our_garden",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
@@ -10,15 +10,4 @@
   "dependencies": {
     "json-server": "^0.17.1"
   },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mamtn011/our_garden.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mamtn011/our_garden/issues"
-  },
-  "homepage": "https://github.com/mamtn011/our_garden#readme",
-  "keywords": [],
-  "description": ""
 }
