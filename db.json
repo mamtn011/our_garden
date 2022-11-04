@@ -1,0 +1,214 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "src": "chandra_mallika_2.jpg",
+      "title": "Chandra Mallica",
+      "description": "Chrysanthemums, sometimes called mums or chrysanths, are flowering plants of the genus Chrysanthemum in the family Asteraceae. They are native to East Asia and northeastern Europe. Most species originate from East Asia and the center of diversity is in China. Countless horticultural varieties and cultivars exist."
+    },
+    {
+      "id": 2,
+      "src": "poinsettia_3.jpg",
+      "title": "Poinsettia",
+      "description": "The poinsettia is a commercially important plant species of the diverse spurge family. Indigenous to Mexico and Central America, the poinsettia was first described by Europeans in 1834. It is particularly well known for its red and green foliage and is widely used in Christmas floral displays."
+    },
+    {
+      "id": 3,
+      "src": "chita_lily_4.jpg",
+      "title": "Chita Lily",
+      "description": "Chita lilies are unique flowers with an outstanding appearance and color. They represent wealth and nobility in many world cultures. Their black spots against their bright orange petals make them stand out."
+    },
+    {
+      "id": 4,
+      "src": "dolonchapa_4.jpg",
+      "title": "Dolonchapa",
+      "description": "Dolonchapa, Hedychium coronarium, the white garland-lily or white ginger lily, is a perennial flowering plant in the ginger family Zingiberaceae, native to the forest understorey of Asia. Other common names include butterfly lily, fragrant garland flower, Indian garland flower or white butterfly ginger lily."
+    },
+    {
+      "id": 5,
+      "src": "madhobi_lota_4.jpg",
+      "title": "Madhobi Lota",
+      "description": "Madhobi Lota, Hiptage benghalensis, often simply called hiptage, is a perennial, evergreen liana native to India, Southeast Asia, Taiwan, and the Philippines. Its habitat is variable and prefers climates ranging from warm temperate to tropical."
+    },
+    {
+      "id": 6,
+      "src": "nil_aparajita_3.jpg",
+      "title": "Neel Aparajita",
+      "description": "Neel Aparajita is one of the most potent herbs used for various treatment purposes. The plant is commonly known as Butterfly pea. The Aparajita flower is used to treat premature hair greying. The ingredient Anthocyanin of Aparajita flower helps to increase the blood flow in the scalp. Thus, leads to treating hair damage and hair loss."
+    },
+    {
+      "id": 7,
+      "src": "rajni_gandda_2.jpg",
+      "title": "Rajni Gandha",
+      "description": "Rajni Gandha, Agave amica, formerly Polianthes tuberosa, the tuberose, is a perennial plant in the family Asparagaceae, subfamily Agavoideae, extracts of which are used as a note in perfumery. Now widely grown as an ornamental plant, the species was originally native to Mexico."
+    },
+    {
+      "id": 8,
+      "src": "nayantara_4.jpg",
+      "title": "Nayantara",
+      "description": "The scientific name of Nayantara is Catharanthus Roseus and it is from the family Apocynaceae. The English common name of this plant is Rose Periwinkle. White Catharanthus roseus known as the Madagascar periwinkle, rosy periwinkle or teresita."
+    },
+    {
+      "id": 9,
+      "src": "shondha_maloti_y_3.jpg",
+      "title": "Shondha Maloti Yellow",
+      "description": "Shondha Maloti or Mirabilis jalapa, the marvel of Peru or four o'clock flower, is the most commonly grown ornamental species of Mirabilis plant, and is available in a range of colors. Mirabilis in Latin means wonderful and Jalapa is the state capital of Veracruz in México."
+    },
+    {
+      "id": 10,
+      "src": "spider_lily_3.jpg",
+      "title": "Spider Lily",
+      "description": "Lycoris radiata, known as the spider lily, magic lily, corpse flower, or equinox flower, is a plant in the amaryllis family, Amaryllidaceae, subfamily Amaryllidoideae. Originally from China, Korea, and Nepal, it was introduced into Japan and from there to the United States and elsewhere"
+    },
+    {
+      "id": 11,
+      "src": "water_lily_1.jpg",
+      "title": "Water Lily",
+      "description": "The national flower of Banladesh, Nymphaeaceae is a family of flowering plants, commonly called water lilies. They live as rhizomatous aquatic herbs in temperate and tropical climates around the world. The family contains nine genera with about 70 known species."
+    },
+    {
+      "id": 12,
+      "src": "rain_lily_1.jpg",
+      "title": "Rain Lily",
+      "description": "The common name rain lily comes from this plant's tendency to bloom after a good soaking from Mother Nature. They are native to tropical and semi-tropical regions of the Americas. There are 3 genera commonly known as rain lilies-Zephyranthes, Habranthus, and Cooperia."
+    },
+    {
+      "id": 13,
+      "src": "shondha_maloti_4.jpg",
+      "title": "Shondha Maloti White",
+      "description": "Shondha Maloti or Mirabilis jalapa, the marvel of Peru or four o'clock flower, is the most commonly grown ornamental species of Mirabilis plant, and is available in a range of colors. Mirabilis in Latin means wonderful and Jalapa is the state capital of Veracruz in México."
+    },
+    {
+      "id": 14,
+      "src": "dopaati_4.jpg",
+      "title": "Dopaati",
+      "description": "Dopaati, Impatiens balsamina, commonly known as balsam, garden balsam, rose balsam, touch-me-not or spotted snapweed, is a species of plant native to India and Myanmar. It is an annual plant growing to 20-75 cm tall, with a thick, but soft stem. The seeds are sown in January-February for summer flowering and May-July for flow."
+    },
+    {
+      "id": 15,
+      "src": "rose_cactus_1.jpg",
+      "title": "Rose Cactus",
+      "description": "Rose Cactus or Rhodocactus grandifolius is a species of cactus native to eastern and southern Brazil. Like all species in the genus Rhodocactus and unlike most cacti, it has persistent leaves. It was first described in 1819. It is grown as an ornamental plant and has naturalized outside its native range."
+    },
+    {
+      "id": 16,
+      "src": "moss_rose_1.jpg",
+      "title": "Moss Rose",
+      "description": "Moss Rose, Portulaca grandiflora is a succulent flowering plant in the family Portulacaceae, native to southern Brazil, Argentina, and Uruguay and often cultivated in gardens. It has many common names, including rose moss, eleven o'clock, Mexican rose, moss rose, sun rose, rock rose, and moss-rose purslane."
+    },
+    {
+      "id": 17,
+      "src": "portulica_1.jpg",
+      "title": "Portulica",
+      "description": "Portulica, Portulaca grandiflora is a succulent flowering plant in the family Portulacaceae, native to southern Brazil, Argentina, and Uruguay and often cultivated in gardens. It has many common names, including rose moss, eleven o'clock, Mexican rose, moss rose, sun rose, rock rose, and moss-rose purslane."
+    },
+    {
+      "id": 18,
+      "src": "cosmos_3.jpg",
+      "title": "Cosmos",
+      "description": "Cosmos are annual flowers with colorful, daisy-like flowers that sit atop long, slender stems. Blooming from the summer through fall, they attract birds, bees, and butterflies to your garden. They're grown easily from seeds and will even survive in poor soil conditions"
+    },
+    {
+      "id": 19,
+      "src": "bleeding_heart_1.jpg",
+      "title": "Bleeding Heart",
+      "description": "Lamprocapnos spectabilis, bleeding heart, fallopian buds or Asian bleeding-heart, is a species of flowering plant belonging to the fumitory subfamily of the poppy family Papaveraceae, and is native to Siberia, northern China, Korea, and Japan."
+    },
+    {
+      "id": 20,
+      "src": "dianthus_2.jpg",
+      "title": "Dianthus",
+      "description": "Dianthus is a genus of about 340 species of flowering plants in the family Caryophyllaceae, native mainly to Europe and Asia, with a few species in north Africa and in southern Africa, and one species in arctic North America. Common names include carnation, pink and sweet william."
+    },
+    {
+      "id": 21,
+      "src": "cosmos_1.jpg",
+      "title": "Cosmos",
+      "description": "Cosmos are annual flowers with colorful, daisy-like flowers that sit atop long, slender stems. Blooming from the summer through fall, they attract birds, bees, and butterflies to your garden. They're grown easily from seeds and will even survive in poor soil conditions"
+    },
+    {
+      "id": 22,
+      "src": "chandra_mallika_1.jpg",
+      "title": "Chandra Mallica",
+      "description": "Chrysanthemums, sometimes called mums or chrysanths, are flowering plants of the genus Chrysanthemum in the family Asteraceae. They are native to East Asia and northeastern Europe. Most species originate from East Asia and the center of diversity is in China. Countless horticultural varieties and cultivars exist."
+    },
+    {
+      "id": 23,
+      "src": "water_lily_2.jpg",
+      "title": "Water Lily",
+      "description": "The national flower of Banladesh, Nymphaeaceae is a family of flowering plants, commonly called water lilies. They live as rhizomatous aquatic herbs in temperate and tropical climates around the world. The family contains nine genera with about 70 known species."
+    },
+    {
+      "id": 24,
+      "src": "joba_1.jpg",
+      "title": "Joba",
+      "description": "Hibiscus rosa-sinensis, known colloquially as Chinese hibiscus, China rose, Hawaiian hibiscus, rose mallow and shoeblack plant, is a species of tropical hibiscus, a flowering plant in the Hibisceae tribe of the family Malvaceae"
+    },
+    {
+      "id": 25,
+      "src": "white_rose_1.jpg",
+      "title": "White Rose",
+      "description": "A rose is either a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and tens of thousands of cultivars. From the Western culture, it has been believed that this type of flower was created by the goddess of love, Aphrodite. According to the legend, her tears and her lover, Adonis', blood watered the ground from where the red Roses grew. It was then a symbol of love until death."
+    },
+    {
+      "id": 26,
+      "src": "cocks_comb_1.jpg",
+      "title": "Cock's Comb",
+      "description": "Celosia is a small genus of edible and ornamental plants in the amaranth family, Amaranthaceae. The generic name is derived from the Ancient Greek word κήλεος, meaning burning, and refers to the flame-like flower heads. Cockscomb is an annual flowering plant, and while its origin is uncertain, it is most likely native to Africa, India and the Americas. Cockscomb is a species of celosia, and its scientific name is Celosia cristata, that comes from the family Amaranthaceae, the family of amaranths"
+    },
+    {
+      "id": 27,
+      "src": "marigold_1.jpg",
+      "title": "Marigold",
+      "description": "Marigolds have many different uses in the garden, outside of being beautiful ornamental flowers. They are great for insect repellent and can provide plenty of diversity in just about any vegetable garden. But if you plant them, will they come back each year? In this article, we walk through if Marigolds are annual, biennial, or perennial flowering plants."
+    },
+    {
+      "id": 28,
+      "src": "kunja_lata_2.jpg",
+      "title": "Kunja Lota",
+      "description": "Kunjalota plant has low severity poison characteristics. This invasive vine is original to the tropics of South America and, though an annual, spreads quickly by self-seed propagation. It grows rapidly reaching 10-20 feet, but is not sturdy and requires support to grow upright."
+    },
+    {
+      "id": 29,
+      "src": "pink_rose_1.jpg",
+      "title": "Pink Rose",
+      "description": "A rose is either a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and tens of thousands of cultivars. From the Western culture, it has been believed that this type of flower was created by the goddess of love, Aphrodite. According to the legend, her tears and her lover, Adonis', blood watered the ground from where the red Roses grew. It was then a symbol of love until death."
+    },
+    {
+      "id": 30,
+      "src": "red_rose_1.jpg",
+      "title": "Red Rose",
+      "description": "A rose is either a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and tens of thousands of cultivars. From the Western culture, it has been believed that this type of flower was created by the goddess of love, Aphrodite. According to the legend, her tears and her lover, Adonis', blood watered the ground from where the red Roses grew. It was then a symbol of love until death."
+    },
+    {
+      "id": 31,
+      "src": "dianthus_red_1.jpg",
+      "title": "Red Dianthus",
+      "description": "Dianthus is a genus of about 340 species of flowering plants in the family Caryophyllaceae, native mainly to Europe and Asia, with a few species in north Africa and in southern Africa, and one species in arctic North America. Common names include carnation, pink and sweet william."
+    },
+    {
+      "id": 32,
+      "src": "kalanchoe_1.jpg",
+      "title": "Kalanchoe",
+      "description": "Kalanchoe KAL-ən-KOH-ee, also written Kalanchöe or Kalanchoë, is a genus of about 125 species of tropical, succulent plants in the stonecrop family Crassulaceae, mainly native to Madagascar and tropical Africa. Kalanchoe blooms last several weeks and even months. What is this? In its natural habitat, the kalanchoe flowers towards the end of winter at the beginning of spring. This happens because it is a plant called “short days”, that is, it needs at least 13 hours of darkness a day to start its flowering process."
+    },
+    {
+      "id": 33,
+      "src": "portulica_2.jpg",
+      "title": "Portulica",
+      "description": "Portulica, Portulaca grandiflora is a succulent flowering plant in the family Portulacaceae, native to southern Brazil, Argentina, and Uruguay and often cultivated in gardens. It has many common names, including rose moss, eleven o'clock, Mexican rose, moss rose, sun rose, rock rose, and moss-rose purslane."
+    },
+    {
+      "id": 34,
+      "src": "kunja_lota_1.jpg",
+      "title": "Kunja Lota",
+      "description": "Kunjalota plant has low severity poison characteristics. This invasive vine is original to the tropics of South America and, though an annual, spreads quickly by self-seed propagation. It grows rapidly reaching 10-20 feet, but is not sturdy and requires support to grow upright."
+    },
+    {
+      "id": 35,
+      "src": "buno_ruellia_1.jpg",
+      "title": "Buno Ruellia",
+      "description": "Ruellia is a genus of flowering plants commonly known as ruellias or wild petunias. They are not closely related to petunias although both genera belong to the same euasterid clade. Ruellias are popular ornamental plants. Some are used as medicinal plants, but many are known or suspected to be poisonous."
+    }
+  ]
+}
