@@ -1,5 +1,4 @@
-{
-  "gallery": [
+[
     {
       "id": 1,
       "src": "chandra_mallika_2.jpg",
@@ -211,4 +210,3 @@
       "description": "Ruellia is a genus of flowering plants commonly known as ruellias or wild petunias. They are not closely related to petunias although both genera belong to the same euasterid clade. Ruellias are popular ornamental plants. Some are used as medicinal plants, but many are known or suspected to be poisonous."
     }
   ]
-}
