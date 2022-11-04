@@ -3,7 +3,7 @@ const apiData = {
   limit: 6,
   async getData() {
     const res = await fetch(
-      `https://mamtn011.github.io/our_garden/db.json?_page=${this.page}&_limit=${this.limit}`
+      `https://mamtn011.github.io/our_garden/db.json`
     );
     const data = await res.json();
     return data;
