@@ -2,14 +2,13 @@ const apiData = {
   page: 1,
   limit: 6,
   async getData() {
-    const res = await fetch(
-      `https://mamtn011.github.io/our_garden/db.json`
-    );
+    const res = await fetch(`https://mamtn011.github.io/our_garden/db.json`);
     const data = await res.json();
     return data;
   },
 };
-
+let limitStart = 0;
+let limitEnd = 6;
 const UI = {
   selectDom() {
     const collections = document.querySelector(".grid");
@@ -34,6 +33,7 @@ const UI = {
     const { collections } = this.selectDom();
     collections.textContent = "";
     let elm = "";
+    console.log(datas);
     datas.forEach((data) => {
       elm += `<div class="content" data-id = "${data.id}">
       <img src="img/${data.src}" class="img" />
@@ -101,64 +101,59 @@ const UI = {
   },
   async handlePagination(evt) {
     const { first, prev, next, last } = this.selectDom();
-    let page;
     if (evt.target.classList.contains("first")) {
-      page = 1;
-      apiData.page = page;
+      limitStart = 0;
+      limitEnd = 6;
       const galleryData = await apiData.getData();
-      this.galleryShowToUI(galleryData);
+      this.galleryShowToUI(galleryData.slice(limitStart, limitEnd));
       this.setAttributeDisabled(first, prev);
       this.removeAttributeDisabled(next, last);
       await this.handlePopup();
     } else if (evt.target.classList.contains("prev")) {
-      page = Number(apiData.page) - 1;
-      apiData.page = page;
+      limitStart -= 6;
+      limitEnd -= 6;
       const galleryData = await apiData.getData();
-      this.galleryShowToUI(galleryData);
+      this.galleryShowToUI(galleryData.slice(limitStart, limitEnd));
       this.removeAttributeDisabled(next, last);
-      if (page === 1) {
+      if (limitStart === 0) {
         this.setAttributeDisabled(first, prev);
       }
       await this.handlePopup();
     } else if (evt.target.classList.contains("next")) {
-      page = Number(apiData.page) + 1;
-      apiData.page = page;
+      limitStart += 6;
+      limitEnd += 6;
       const galleryData = await apiData.getData();
-      this.galleryShowToUI(galleryData);
+      this.galleryShowToUI(galleryData.slice(limitStart, limitEnd));
       this.removeAttributeDisabled(first, prev);
       const total = await this.getTotalOfData();
-      apiData.limit = 6;
-      apiData.page = page;
-      if (page === Math.ceil(total / 6)) {
+      if (limitEnd >= total) {
         this.setAttributeDisabled(next, last);
       }
       await this.handlePopup();
     } else if (evt.target.classList.contains("last")) {
       const total = await this.getTotalOfData();
-      apiData.limit = 6;
-      page = Math.ceil(total / 6);
-      apiData.page = page;
+      for (let i = 6; i <= total; i += 6) {
+        limitStart = Math.floor(i / 6) * 6;
+        limitEnd = limitStart + 6;
+      }
       const galleryData = await apiData.getData();
-      this.galleryShowToUI(galleryData);
+      this.galleryShowToUI(galleryData.slice(limitStart, limitEnd));
       this.removeAttributeDisabled(first, prev);
       this.setAttributeDisabled(next, last);
       await this.handlePopup();
     } else if (evt.target.classList.contains("all")) {
-      apiData.page = 1;
-      apiData.limit = 100;
       const galleryData = await apiData.getData();
       this.galleryShowToUI(galleryData);
       this.setAttributeDisabled(next, last);
       prev.setAttribute("disabled", "disabled");
       first.removeAttribute("disabled");
       await this.handlePopup();
-      apiData.limit = 6;
     }
   },
   async init() {
     const { pages, first, prev } = this.selectDom();
     const galleryData = await apiData.getData();
-    this.galleryShowToUI(galleryData);
+    this.galleryShowToUI(galleryData.slice(0, 6));
     this.setAttributeDisabled(first, prev);
     pages.addEventListener("click", (evt) => this.handlePagination(evt));
     await this.handlePopup();
