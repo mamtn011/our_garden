@@ -33,7 +33,6 @@ const UI = {
     const { collections } = this.selectDom();
     collections.textContent = "";
     let elm = "";
-    console.log(datas);
     datas.forEach((data) => {
       elm += `<div class="content" data-id = "${data.id}">
       <img src="img/${data.src}" class="img" />
